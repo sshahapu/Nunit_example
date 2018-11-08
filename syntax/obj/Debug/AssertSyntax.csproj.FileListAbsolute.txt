@@ -1,0 +1,10 @@
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.pdb
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\bin\Debug\NUnit.System.Linq.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.xml
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csprojAssemblyReference.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CoreCompileInputs.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CopyComplete
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.pdb

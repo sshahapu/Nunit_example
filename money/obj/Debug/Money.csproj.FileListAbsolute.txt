@@ -1,0 +1,10 @@
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\bin\Debug\Money.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\bin\Debug\Money.Tests.pdb
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\bin\Debug\nunit.framework.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\bin\Debug\NUnit.System.Linq.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\bin\Debug\nunit.framework.xml
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\obj\Debug\Money.csprojAssemblyReference.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\obj\Debug\Money.csproj.CopyComplete
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\obj\Debug\Money.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\money\obj\Debug\Money.Tests.pdb

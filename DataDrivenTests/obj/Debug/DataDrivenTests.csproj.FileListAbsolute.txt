@@ -1,0 +1,9 @@
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\bin\Debug\DataDriven.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\bin\Debug\DataDriven.Tests.pdb
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\bin\Debug\nunit.framework.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\bin\Debug\nunit.framework.xml
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\obj\Debug\DataDrivenTests.csprojAssemblyReference.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\obj\Debug\DataDrivenTests.csproj.CoreCompileInputs.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\obj\Debug\DataDrivenTests.csproj.CopyComplete
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\obj\Debug\DataDriven.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\DataDrivenTests\obj\Debug\DataDriven.Tests.pdb

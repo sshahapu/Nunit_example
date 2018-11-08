@@ -1,0 +1,10 @@
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\bin\Debug\ExpectedExceptionExample.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\bin\Debug\ExpectedExceptionExample.Tests.pdb
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\bin\Debug\nunit.framework.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\bin\Debug\NUnit.System.Linq.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\bin\Debug\nunit.framework.xml
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.csprojAssemblyReference.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.csproj.CoreCompileInputs.cache
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.csproj.CopyComplete
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.Tests.dll
+F:\DevOps\Documents\DotNet_Projects\nunit-csharp-samples-master\ExpectedExceptionExample\obj\Debug\ExpectedExceptionExample.Tests.pdb
